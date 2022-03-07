@@ -1,0 +1,8 @@
+
+app-tabpages{
+    z-index: 9999;
+    position: inherit;
+}
+app-footerpages{
+    z-index: 9999;
+}
