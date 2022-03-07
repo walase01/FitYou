@@ -11,7 +11,9 @@ export class TabpagesComponent implements OnInit {
 
   menuItem : menu[] = [
     { ruta : 'fityou/home' , title : 'Home' },
-    { ruta : 'fityou/service' , title : 'Mapa' }
+    { ruta : 'fityou/service' , title : 'Mapa' },
+    { ruta : ' ' , title : 'About' },
+    { ruta : ' ' , title : 'Contact' }
   ]
 
   constructor() { }
